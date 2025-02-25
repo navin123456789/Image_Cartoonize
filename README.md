@@ -95,9 +95,6 @@ The model effectively generates cartoonized images with smooth edges and reduced
 ## Contributing
 Feel free to contribute to the project by opening issues and pull requests.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any queries, contact: navingyawali788@gmail.com
 
