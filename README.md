@@ -27,10 +27,6 @@ The model follows an **Encoder-Decoder** approach:
 - `numPy`
 - `matplotlib`
 
-### Clone the repository
-```bash
-git clone https://github.com/raichu03/photo2comic.git
-```
 
 ### Uses
 you can install the required packages and start using the already trained model. You can access the model using the by importing the file `predict.py` and use the fuction `get_prediction` to get the cartoon version of the image.
